@@ -1,14 +1,11 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
   <img src=https://rojo.space/assets/images/splash-a50c3fba664e79034eb6e98505a993b1.png />
+
+  <br>
+
+  <img src="https://i.imgur.com/KAHYaxx.png" height="75"/>
 </div>
 
-<br>
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://i.imgur.com/KAHYaxx.png" style="max-height: 75px;" />
-
-  <h1>Rojo Luau</h1>
-</div>
 
 ## About
 
